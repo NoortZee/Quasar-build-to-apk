@@ -1,7 +1,7 @@
 # Quasar-build-to-apk
 
 
-#Windows
+# Windows
 
 ### Run the following commands in the root folder of your app
 
