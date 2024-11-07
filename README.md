@@ -75,7 +75,7 @@ PATH = %USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\SystemX\AppDat
 ```
 
 
-После этого нужно будет скачать ебаный Gradle через cmd от имени админа
+После этого нужно будет скачать ебаный Gradle через cmd от имени админа (тк без него у меня просто не работает, хотя вроде бы в Android Studio gradle есть по дефолту)
 Но поскольку это какая то залупа нам придется сначала поставить choco
 
 
