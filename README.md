@@ -65,6 +65,16 @@ in your path, or install Android Studio
 setx PATH "%PATH%;%GRADLE_HOME%\bin"
 ```
 
+Мои итоговые переменные (как пример):
+
+```bash
+ANDROID_HOME = C:\Users\SystemX\AppData\Local\Android\Sdk
+ANDROID_SDK_ROOT = C:\Users\SystemX\AppData\Local\Android\Sdk
+JAVA_HOME = C:\Program Files\Java\jdk-23
+PATH = %USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\SystemX\AppData\Local\Android\Sdk\platform-tools;C:\Users\SystemX\AppData\Local\Android\Sdk\tools
+```
+
+
 После этого нужно будет скачать ебаный Gradle через cmd от имени админа
 Но поскольку это какая то залупа нам придется сначала поставить choco
 
@@ -106,4 +116,5 @@ cordova platform add android
 
 И если апк сгенерировался по указанному пути, например:  C:\Users\SystemX\Downloads\quasar-project\quasar-project\dist
 Идем пить пивас или что покрепче (после тестирования само собой)
+
 
