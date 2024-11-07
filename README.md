@@ -1,6 +1,8 @@
 # Quasar-build-to-apk
 
 
+#Windows
+
 ### Run the following commands in the root folder of your app
 
 Install the latest cordova release
