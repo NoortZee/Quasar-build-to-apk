@@ -57,7 +57,7 @@ or on your system to install the gradle wrapper. Please include gradle
 in your path, or install Android Studio
 "
 
-Дальше ебемся с путями в переменных так как без этого никуда (https://www.tutorials24x7.com/android/how-to-install-android-sdk-tools-on-windows)
+Дальше ставим Java JDK и ебемся с путями в переменных так как без этого никуда (https://www.tutorials24x7.com/android/how-to-install-android-sdk-tools-on-windows)
 
 Не забываем юзать -v для проверки установки а также переменные можно задать в консоли используя например
 ```bash
